@@ -1,16 +1,16 @@
-## Hi there 👋
+# Planilhas Inteligentes e IA
 
-<!--
-**lisebarb/lisebarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Descrição
+Este Dashboard contem dados ficticios gerados com IA.  
 
-Here are some ideas to get you started:
+## Tecnologias Utilizadas
+IA Generativa **[ChatGPT](https://chat.openai.com)** para criar os dados da planilha;
+[Excel](https://www.microsoft.com/en/microsoft-365/excel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Processo de Criação
+Utilizando o "ChatGPT" pude gerar os dados ficticios para compor a planilha de gastos e o "Excel" foi a ferramenta de confecção de planilha. 
+
+## Resultados
+A planilha de gastos contem tabela dinamica e gráficos, também foi possivel desenvolver dashboard dinamico com todo o conhecimento adquirido em aula.
+
+[link para a planilha](https://github.com/lisebarb/lisebarb/blob/main/planilha_anelise.xlsx)
